@@ -2,3 +2,17 @@ body {
     max-width: 1219px;
     margin: 0 auto;
 }
+.text {
+    color: #007BFF;
+}
+.data {
+    color: black;
+}
+footer {
+    background-color: #F5F5F5;
+    margin-top: 50px;
+    height: 51px;
+    color: #6C757D;
+    text-align: left;
+    padding: 15px 0;
+}
